@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "api.warframe.com",
+        "content.warframe.com",
+        "origin.warframe.com"
+      ]
+    }
+  ],
+  "version": 1
+}

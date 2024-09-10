@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "btbtt",
+        "mikuclub"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "2mdn.net",
+        "anime1.me",
+        "c.android.clients.google.com",
+        "f95zone.to",
+        "googletagservices.com",
+        "gstatic.com",
+        "hanime1.me",
+        "safebrowsing.cache.l.google.com",
+        "toolbarqueries.l.google.com",
+        "zodgame.xyz"
+      ]
+    }
+  ],
+  "version": 1
+}

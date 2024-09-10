@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ad.daum.net",
+        "alea.adam.ad.daum.net",
+        "analytics.ad.daum.net",
+        "display.ad.daum.net",
+        "p1-play.edge4k.com",
+        "p1-play.kgslb.com",
+        "p2-play.edge4k.com",
+        "p2-play.kgslb.com",
+        "play.kakao.com",
+        "t1.daumcdn.net",
+        "track.tiara.daum.net",
+        "wat.ad.daum.net"
+      ]
+    }
+  ],
+  "version": 1
+}

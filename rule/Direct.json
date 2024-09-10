@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "challenges.cloudflare.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "akamaized.net",
+        "mediafire.com",
+        "megaup.net",
+        "panbaidu.cn",
+        "sourceforge.net",
+        "zippyshare.com"
+      ]
+    }
+  ],
+  "version": 1
+}
