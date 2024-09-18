@@ -6,14 +6,25 @@
         "alea.adam.ad.daum.net",
         "analytics.ad.daum.net",
         "display.ad.daum.net",
+        "internetdownloadmanager.com",
+        "mirror.internetdownloadmanager.com",
+        "mirror2.internetdownloadmanager.com",
+        "mirror3.internetdownloadmanager.com",
         "p1-play.edge4k.com",
         "p1-play.kgslb.com",
         "p2-play.edge4k.com",
         "p2-play.kgslb.com",
         "play.kakao.com",
+        "registeridm.com",
+        "secure.internetdownloadmanager.com",
+        "secure.registeridm.com",
         "t1.daumcdn.net",
+        "tonec.com",
         "track.tiara.daum.net",
-        "wat.ad.daum.net"
+        "wat.ad.daum.net",
+        "www.internetdownloadmanager.com",
+        "www.registeridm.com",
+        "www.tonec.com"
       ]
     }
   ],
