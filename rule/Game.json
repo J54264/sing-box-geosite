@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "api.twitch.tv",
         "api.warframe.com",
         "content.warframe.com",
         "origin.warframe.com"
